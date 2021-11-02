@@ -1,0 +1,27 @@
+:root { /* :root not :role <facepalm> */
+    --cc-dark-cyan-: hsl(185, 75%, 39%);
+    --cc-dark-blue-: hsl(229, 23%, 23%);
+    --cc-gray-blue-: hsl(227, 10%, 46%);
+    --cc-dark-gray-: hsl(0, 0%, 59%);
+
+    --ff-text-font-: 'Kumbh Sans', sans-serif; font-weight: 400; /* font size 1.125rem */
+    --ff-header-font-: 'Kumbh Sans', sans-serif; font-weight: 700; /* font size 1.125rem */
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    margin: 0px;
+    padding: 0px;
+    min-height: 100vh;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    background: url(/images/bg-pattern-top.svg), url(/images/bg-pattern-bottom.svg), var(--cc-dark-cyan-);
+    background-repeat: no-repeat;
+    background-position: right 40vw top -75vh, left 40vw top 47vh;
+    overflow: hidden;
+    font-family: var(--ff-text-font-);
+    font-weight: 400;
+}
+
