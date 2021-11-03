@@ -29,6 +29,8 @@ body {
     flex-direction: column;
     background-color: white;
     border-radius: 15px;
+    height: 350px;
+    width: 250px;
 }
 
 img {
@@ -98,4 +100,14 @@ p {
     padding-bottom: 10px;
     color: var(--cc-gray-blue-);
     letter-spacing: 1px;
+}
+
+
+@media (min-width: 440px) {
+    .main-info {
+        display: flex;
+        flex-direction: column;
+        width: 350px;
+        height: 350px;
+    }
 }
