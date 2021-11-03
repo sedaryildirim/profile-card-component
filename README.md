@@ -24,14 +24,16 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./mobile_ss.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Repo](https://github.com/sedaryildirim/profile-card-component)
+- Live Site URL: [Live Site](https://sedaryildirim.github.io/profile-card-component/)
 
 ## My process
+
+Mobile first workflow, found it quite difficult positioning some items at times but managed to get it working. Once mobile was completed, moved onto desktop version which was dead easy this time around.
 
 ### Built with
 
@@ -53,14 +55,23 @@ body {
 
 ### Continued development
 
+Code cleanup in future & any potential bug fixes - also need better way to decern which fonts/weights/styles going with which headings (sketch files would be helpful here)
+
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- [Flexbox Froggy](https://flexboxfroggy.com/) - Flexbox Tutorial
+- [Kevin Powell](https://www.youtube.com/KevinPowell) - HTML & CSS tutorirals
+- [Web Dev Simplified](https://www.youtube.com/webdevsimplified) - @media & CSS tutorials
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Github - [Sedar Yildirim](https://github.com/sedaryildirim)
+- Frontend Mentor - [@sedaryildirim](https://www.frontendmentor.io/profile/sedaryildirim)
 
 ## Acknowledgments
+
+[Frontendmentor.io](https://www.frontendmentor.io/)
+
+[Flexboxfroggy](https://flexboxfroggy.com/)
+
+[Kevin Powell](https://www.youtube.com/KevinPowell)

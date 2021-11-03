@@ -17,7 +17,7 @@ body {
     justify-content: center;
     align-content: center;
     align-items: center;
-    background: url(/images/bg-pattern-top.svg), url(/images/bg-pattern-bottom.svg), var(--cc-dark-cyan-);
+    background: url('../images/bg-pattern-top.svg'), url('../images/bg-pattern-bottom.svg'), var(--cc-dark-cyan-);
     background-repeat: no-repeat;
     background-position: right 40vw top -75vh, left 40vw top 47vh;
     overflow: hidden;
@@ -59,7 +59,7 @@ img {
 }
 
 .upper-bg {
-    background: url(/images/bg-pattern-card.svg);
+    background: url('../images/bg-pattern-card.svg');
     border-radius: 15px 15px 0px 0px;
 }
 
