@@ -22,8 +22,6 @@ body {
     background-position: right 40vw top -75vh, left 40vw top 47vh;
     overflow: hidden;
     font-family: var(--ff-text-font-);
-    font-weight: 400;
-    font-size: 1.125rem;
 }
 
 .main-info {
@@ -54,7 +52,7 @@ img {
     justify-content: center;
     align-content: center;
     align-items: center;
-    padding-top: 50px;
+    padding-top: 40px;
     text-align: center;
 }
 
@@ -75,4 +73,29 @@ img {
 
 .user-followers, .user-likes, .user-photos {
     text-align: center;
+    padding: 5px;
+}
+
+h1 {
+    line-height: 5px;
+    font-size: 1.125rem;
+    padding-top: 15px;
+}
+
+span {
+    font-weight: 400;
+    padding-left: 10px;
+    color: var(--cc-gray-blue-);
+}
+
+.user-location {
+    color: var(--cc-gray-blue-);
+    line-height: 5px;
+    font-size: 0.8rem;
+}
+
+p {
+    padding-bottom: 10px;
+    color: var(--cc-gray-blue-);
+    letter-spacing: 1px;
 }
