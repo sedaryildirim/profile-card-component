@@ -102,19 +102,6 @@ p {
     letter-spacing: 1px;
 }
 
-.attribution {
-    position:fixed;
-    bottom: 0px;
-    font-size: 11px; 
-    text-align: center;
-    font-family: sans-serif;
-    font-weight: 400;
-}
-
-.attribution a { 
-    color: hsl(228, 45%, 44%); 
-}
-
 
 @media (min-width: 440px) {
     .main-info {
@@ -122,19 +109,6 @@ p {
         flex-direction: column;
         width: 350px;
         height: 350px;
-    }
-
-    .attribution {
-        position:fixed;
-        bottom: 0px;
-        font-size: 11px; 
-        text-align: center;
-        font-family: sans-serif;
-        font-weight: 400;
-    }
-
-    .attribution a { 
-        color: hsl(228, 45%, 44%); 
     }
 
 }
