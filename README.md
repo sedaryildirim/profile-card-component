@@ -24,7 +24,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Screenshot
 
-![](./mobile_ss.png)
+![](../images/mobile_ss.png)
 
 ### Links
 
